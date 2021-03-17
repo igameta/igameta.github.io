@@ -1,4 +1,13 @@
+body {
+    background-color: #1b1f23;
+    color: #ffffff;
+
+}
 li {
     list-style-type: none;
     padding-left: 0;
+}
+
+a {
+    color : #5ca6f0;
 }
