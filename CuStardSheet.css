@@ -11,3 +11,15 @@ li {
 a {
     color : #5ca6f0;
 }
+
+div.cont {
+    font-size: 20px;
+    margin: 4px 15px;
+
+}
+
+div.potato {
+    font-size: 25px;
+    font-weight: 700;
+    color: #46d025;
+}
