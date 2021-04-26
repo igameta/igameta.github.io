@@ -1,0 +1,40 @@
+body{
+    background-color: #2f3539;
+    color: #ffffff;
+    margin: 0;
+}
+/* header */
+header{
+    background-color: #319b10;
+    padding: 3px 30px;
+    color: #ffffff;
+}
+.headbutton{
+    list-style: none;
+    overflow: auto;
+}
+.headbutton_words{
+    float: left;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+.HBspan{
+    font-size: 10px;
+}
+/* main */
+.main{
+    padding: 100px;
+}
+.icon_fromGitHub{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+/* footer */
+footer{
+    background-color: #1b1f23;
+    padding: 80px;
+}
