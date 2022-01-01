@@ -1,1 +1,1 @@
-igameta.github.io
+This is igameta's web profile.
