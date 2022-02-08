@@ -9,7 +9,8 @@ li {
 }
 
 a {
-    color : #5ca6f0;
+    padding-left:600px ;
+        color: aqua;
 }
 
 div.cont {
@@ -22,4 +23,13 @@ div.potato {
     font-size: 25px;
     font-weight: 700;
     color: #46d025;
+}
+
+h1.NU{
+    text-align: center;
+    color: red;
+}
+
+.nunu{
+    padding-top: 200px;
 }
